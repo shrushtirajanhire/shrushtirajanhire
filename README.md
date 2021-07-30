@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shrushti Rajanhire</h1>
 <h3 align="center">A passionate UI/UX designer and Web developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrushtirajanhire" alt="shrushtirajanhire" /></a> </p>
 
 - 🌱 I’m currently learning **UI Designing , Illustration and Programming language**
 
