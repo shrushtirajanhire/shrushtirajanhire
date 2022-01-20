@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **UI Designing , Illustration and Programming language**
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/shrushtrajanhi1](https://www.behance.net/shrushtrajanhi1)
+- 👨‍💻 All of my projects are available at [https://www.behance.net/shrushtrajanhi1](https://www.behance.net/shrushtrajanhi1) and github https://github.com/shrushtirajanhire 
 
 - 💬 Ask me about **HTML , CSS , C++ programming language , UI designs**
 
